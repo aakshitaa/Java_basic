@@ -1,6 +1,3 @@
-/**
- * PyramidPattern
- */
 public class PyramidPattern {
     public static void pattern(){
         for( int i = 0; i <= 4; i++){
