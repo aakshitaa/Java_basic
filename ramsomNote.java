@@ -1,6 +1,5 @@
 public class ramsomNote {
-    public boolean canConstruct(String ransomNote, String magazine) {
-        String temp = new String();
+    public static boolean canConstruct(String ransomNote, String magazine) {
         for (int i =0; i < ransomNote.length(); i++){
             char r = ransomNote.charAt(i);
             int index = magazine.indexOf(r);
