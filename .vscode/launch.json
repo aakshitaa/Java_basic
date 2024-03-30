@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "Java_basic_f134f0f4"
+        },
+        {
+            "type": "java",
+            "name": "MazeTraversal",
+            "request": "launch",
+            "mainClass": "MazeTraversal",
+            "projectName": "Java_basic_f134f0f4"
+        },
+        {
+            "type": "java",
+            "name": "StringPerm",
+            "request": "launch",
+            "mainClass": "StringPerm",
+            "projectName": "Java_basic_f134f0f4"
+        },
+        {
+            "type": "java",
+            "name": "KeypadCombinations",
+            "request": "launch",
+            "mainClass": "KeypadCombinations",
+            "projectName": "Java_basic_f134f0f4"
+        },
+        {
+            "type": "java",
+            "name": "Subsequences",
+            "request": "launch",
+            "mainClass": "Subsequences",
+            "projectName": "Java_basic_f134f0f4"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicatesInString",
+            "request": "launch",
+            "mainClass": "RemoveDuplicatesInString",
+            "projectName": "Java_basic_f134f0f4"
+        },
+        {
+            "type": "java",
+            "name": "SwapToEnd",
+            "request": "launch",
+            "mainClass": "SwapToEnd",
+            "projectName": "Java_basic_f134f0f4"
+        },
+        {
+            "type": "java",
+            "name": "CheckSortedArray",
+            "request": "launch",
+            "mainClass": "CheckSortedArray",
+            "projectName": "Java_basic_f134f0f4"
+        },
+        {
+            "type": "java",
             "name": "FirstLastOccurenceRecursion",
             "request": "launch",
             "mainClass": "FirstLastOccurenceRecursion",
